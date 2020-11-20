@@ -5,7 +5,7 @@ from tkinter import filedialog
 from ProfileClass import PROFILE
 import time
 
-path = r'F:\hidehere\\'
+path = r'.'
 
 
 def open_profile(file):
